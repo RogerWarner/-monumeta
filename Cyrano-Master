@@ -1,0 +1,15 @@
+Execute{#Cyrano}
+Think(Cyrano.runtime);
+<Instantiate>(Brand.Agent.Module)</Instantiate>;
+Load(Augmented.RealityModule7.3.7) PlaceOn(User.Stream; where "User" = #User)
+Enable.Abstraction.Value=V Avatar(User2):Host(User1) <CoJoin>
+If V=Liked Then deliver runtime.environment.Slate (on.3i);
+Else </CoJoin>
+If V=Uber.Liked Then export #User.stream.hands.7Days (from.user.database to MeeCorp.datacentre);
+Insert <Quote>”Great is the power of steady misrepresentation”</Quote>
+Insert <Advertiser>[Name of Advertiser]</Advertiser>
+Modify <grammar> Insert <hands> Refilter <all>
+Delete <print.user.stream> Export <post.advertiser.sponsoredstory> Hands <nofail>
+Else <run.time> to </run.time> {no.max.limit.over.ride}
+</CoJoin>
+{/#Cyrano} 
