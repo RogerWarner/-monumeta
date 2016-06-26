@@ -1,0 +1,15 @@
+Execute{#Cyrano}
+Think(Cyrano.runtime);
+<Instantiate>(Brand.Agent.Module)</Instantiate>;
+Load(Augmented.RealityModule7.3.7) PlaceOn(User.Stream; where "User" = #User)
+Enable.Abstraction.Value=V Avatar(User2):Host(User1) <CoJoin>
+If V=Liked Then deliver runtime.environment.Slate (on.3i);
+Else </CoJoin>
+If V=Tara.Tamana Then export #Cyrano.code.library.28Days (from.user.database to MeeCorp.datacentre);
+Insert <Magic_of>"www.justintimberlake.com” and “www. lamborghini.com”</Magic_of>
+Insert <Advertiser>[Name of Advertiser]</Advertiser>
+Modify <grammar> Download <brain> Refilter <all>
+Delete <print.user.stream> Export <post.advertiser.sponsoredstory> Brain <nofail>
+Else <run.time> to </run.time> {no.max.limit.over.ride}
+</CoJoin>
+{/#Cyrano}
